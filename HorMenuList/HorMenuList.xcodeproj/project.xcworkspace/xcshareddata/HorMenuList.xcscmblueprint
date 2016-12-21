@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "87DAE67F1F9D549661C0FE3F9F2493462ECADC7A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D624004056EED3B070ABEDEF462D07557BFF5084" : 9223372036854775807,
+    "87DAE67F1F9D549661C0FE3F9F2493462ECADC7A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "15F690B3-C7B9-4D65-9786-68DCF692A617",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D624004056EED3B070ABEDEF462D07557BFF5084" : "",
+    "87DAE67F1F9D549661C0FE3F9F2493462ECADC7A" : "xiyuxiaoxiaoGit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HorMenuList",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HorMenuList\/HorMenuList.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xiyuxiaoxiao\/HorizontalMenuList.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "87DAE67F1F9D549661C0FE3F9F2493462ECADC7A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/git.oschina.net\/zhangrx\/PuzzleGame",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D624004056EED3B070ABEDEF462D07557BFF5084"
+    }
+  ]
+}
