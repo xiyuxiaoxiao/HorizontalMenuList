@@ -11,6 +11,7 @@
 @interface Hor_M_L_ScrollView : UIView
 
 -(instancetype)initWithArray:(NSArray *)array;
+-(void)setTitleArray:(NSArray *)array;
 -(void)setTarget:(id)btTarget action:(SEL)btAction;
 
 //设置单个的大小

@@ -53,6 +53,16 @@
 
 #pragma mark -
 
+- (instancetype)init
+{
+    self = [super init];
+    if (self) {
+        currentIndex = -1;
+        oneW = 60;
+    }
+    return self;
+}
+
 -(instancetype)initWithArray:(NSArray *)array {
     self = [super init];
     if (self) {
@@ -64,6 +74,16 @@
     }
     
     return self;
+}
+
+//其他初始化方法设置的时候
+-(void)setTitleArray:(NSArray *)array {
+    for (UIView *aView in self.subviews) {
+        [aView removeFromSuperview];
+    }
+    titleArray = [NSArray arrayWithArray:array];
+    [self addAllButton];
+    [self setNeedsLayout];
 }
 
 -(void)addAllButton {
