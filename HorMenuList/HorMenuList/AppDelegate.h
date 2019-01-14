@@ -10,6 +10,7 @@
 /*
  
  添加新的分支 wyj
+ 合并了
  
  */
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
